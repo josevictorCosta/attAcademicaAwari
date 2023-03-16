@@ -1,0 +1,54 @@
+[
+  {
+    "TIPO DE VEÍCULO": "Passeio",
+    "Modelo": "Pálio",
+    "Placa": "QWE-6843",
+    "Cor": "Branco",
+    "Ano": 2008,
+    "Km/h": 200,
+    "Diária": "R$45"
+  },
+  {
+    "TIPO DE VEÍCULO": "Passeio",
+    "Modelo": "Fusca",
+    "Placa": "JKT-8214",
+    "Cor": "Vermelho",
+    "Ano": 1997,
+    "Km/h": 180,
+    "Diária": "R$30"
+  },
+  {
+    "TIPO DE VEÍCULO": "Veículo Utilitário",
+    "Modelo": "Ford Transit",
+    "Placa": "GHF-6487",
+    "Cor": "Grafite",
+    "Ano": 2016,
+    "Km/h": 165,
+    "Diária": "R$60",
+    "N° Passageiros": 6,
+    "Bagageiro": 400,
+    "Autonomia": "12 km/l"
+  },
+  {
+    "TIPO DE VEÍCULO": "Veículo Esportivo",
+    "Modelo": "FordFusion",
+    "Placa": "MKN-6518",
+    "Cor": "Branco",
+    "Ano": 2019,
+    "Km/h": 200,
+    "Diária": "R$240",
+    "0-100km/H": 9,
+    "N° Melhorias": 2
+  },
+  {
+    "TIPO DE VEÍCULO": "Veículo Esportivo",
+    "Modelo": "Fiat 500 Abarth",
+    "Placa": "NKT-6215",
+    "Cor": "Preto",
+    "Ano": 2019,
+    "Km/h": 208,
+    "Diária": "R$240",
+    "0-100km/H": 7.6,
+    "N° Melhorias": 5
+  }
+]

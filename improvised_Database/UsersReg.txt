@@ -1,0 +1,24 @@
+[
+  {
+    "Nome": "Ana",
+    "Endereco": "Rua 45 - Jardim Goías",
+    "Celular": "(84) X 35X4-X853",
+    "CPF": "7584026-9",
+    "CNH": "4503817"
+  },
+  {
+    "Nome": "João",
+    "Endereco": "Rua Bandeirantes - Nova Esperança",
+    "Celular": "(48) X 33X4-X855"
+  },
+  {
+    "Nome": "Mike Wazowski",
+    "Endereco": "Rua 45 - Prol.Paulo Bandeira",
+    "Celular": "(97) X X5X4-5X83"
+  },
+  {
+    "Nome": "Geraldo",
+    "Endereco": "Rua 45 - Jardim Helena",
+    "Celular": "(17) X 35X4-X487"
+  }
+]
